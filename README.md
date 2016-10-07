@@ -5,6 +5,6 @@ Getting Started
 ---
 1. install ionic & cordova
 ```
-$ npm install -g ionic
-$ npm install -g cordova
+$ sudo npm install -g ionic
+$ sudo npm install -g cordova
 ```
